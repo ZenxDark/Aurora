@@ -25,7 +25,6 @@ img2pdf~=0.5.1
 telegraph~=2.2.0
 pytube~=15.0.0
 pytz~=2024.1
-git+https://github.com/KurimuzonAkuma/pyrogram.git
 Flask==3.0.3
 gunicorn==23.0.0
 Jinja2==3.1.4
